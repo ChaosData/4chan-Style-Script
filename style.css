@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow);
+@import url(" + location.protocol + "//fonts.googleapis.com/css?family=PT+Sans+Narrow);
 *
 {
 	font-family:" + $SS.formatFont($SS.conf["Font"]) + "!important;
