@@ -1,5 +1,55 @@
 master
 
+2.2.0
+    fixed:
+        - Announcement z-index when using top nav bar.
+        - An odd case where 4chanSS's CSS would be inserted before 4chan's.
+        - Options link will no longer conflict with 4chanx's link.
+        - Exhentai links inside cloned nodes (inline quotes).
+        - Fit contetn replies will wrap around OP's image similar to the vanilla 4chan style.
+        - z-index issue with thumbnails and inline quotes.
+    added:
+        - Import/Export theme feature.
+2.1.1
+    fixed:
+        - Hidding default mascots.
+2.1.0
+    fixed:
+        - Reply/thread hiding.
+        - Sage text color x2.
+        - Thread hide button position.
+        - Image hover z-index.
+        - Inline quote display.
+        - Thread stubs, (aeosynth).
+    added:
+        - Logo reflection option.
+        - Drop down pages position.
+        - Navigation bar position setting.
+        - Version is now displayed in the options window.
+2.0.2
+    fixed:
+        - Expand all images checkbox will no be hidden.
+        - Inline image expansion.
+        - 4chan X QR input dimensions.
+        - Non-custom nav links.
+        - Pages z-index.
+        - Non-default backlinks positioning.
+        - Ability to hide threads.
+        - 4chan X quote hover preview width.
+        - Highlighted post style.
+    added:
+        - Board name/text link position.
+2.0.1
+    fixed:
+        - 4chan X image expansion.
+        - Options link will now replace the [Home] link.
+        - Text boards style/position.
+        - 4chan X QR positioning.
+2.0.0
+    fixed:
+        - Added support for 4chan's new html.
+    modified:
+        - The board name font will be loaded through the same protocol as 4chan.
 1.7.0
     modified:
         - /f/ and the report form are now styled.
